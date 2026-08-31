@@ -33,6 +33,7 @@ Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades q
 ### 🌐 Contato
 
 📧 Email: pjanuario938@gmail.com
+
 💼 LinkedIn: 
 
 ---
