@@ -22,6 +22,8 @@ Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades q
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="40px"/>
+
 </p>
 
 ---
@@ -30,7 +32,7 @@ Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades q
 
 ### 🌐 Contato
 
-📧 Email:  
+📧 Email: pjanuario938@gmail.com
 💼 LinkedIn: 
 
 ---
