@@ -34,7 +34,7 @@ Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades q
 
 📧 Email: pjanuario938@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/pedro-pinhata-590207376?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
